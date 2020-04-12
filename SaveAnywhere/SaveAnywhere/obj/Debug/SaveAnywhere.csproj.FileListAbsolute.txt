@@ -1,0 +1,6 @@
+C:\Users\thiag\source\repos\SaveAnywhere\SaveAnywhere\bin\Debug\SaveAnywhere.dll
+C:\Users\thiag\source\repos\SaveAnywhere\SaveAnywhere\bin\Debug\SaveAnywhere.pdb
+C:\Users\thiag\source\repos\SaveAnywhere\SaveAnywhere\obj\Debug\SaveAnywhere.csprojAssemblyReference.cache
+C:\Users\thiag\source\repos\SaveAnywhere\SaveAnywhere\obj\Debug\SaveAnywhere.csproj.CoreCompileInputs.cache
+C:\Users\thiag\source\repos\SaveAnywhere\SaveAnywhere\obj\Debug\SaveAnywhere.dll
+C:\Users\thiag\source\repos\SaveAnywhere\SaveAnywhere\obj\Debug\SaveAnywhere.pdb

@@ -1,0 +1,3 @@
+C:\Users\thiag\source\repos\SaveAnywhere\SaveAnywhere\bin\Release\SaveAnywhere.dll
+C:\Users\thiag\source\repos\SaveAnywhere\SaveAnywhere\obj\Release\SaveAnywhere.csproj.CoreCompileInputs.cache
+C:\Users\thiag\source\repos\SaveAnywhere\SaveAnywhere\obj\Release\SaveAnywhere.dll
